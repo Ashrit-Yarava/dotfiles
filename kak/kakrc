@@ -42,3 +42,8 @@ evaluate-commands %sh{
 map global normal '#' :comment-line<ret>
 map global user -docstring 'next lint error' n ':lint-next-error<ret>'
 map global normal <c-p> :lint<ret>
+
+
+# Enable Line Numbers
+# ───────────────────
+add-highlighter global/ number-lines
