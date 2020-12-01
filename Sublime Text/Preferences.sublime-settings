@@ -1,0 +1,25 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"dpi_scale": 2,
+	"file_exclude_patterns":
+	[
+		".*"
+	],
+	"folder_exclude_patterns":
+	[
+		".*"
+	],
+	"font_face": "JetBrainsMono Nerd Font",
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"save_on_focus_lost": true,
+	"scroll_speed": 2.5,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
